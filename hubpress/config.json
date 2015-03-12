@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "jimmidyson",
-    "repositoryName": "testblog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"jimmidyson","repositoryName":"testblog","branch":"gh-pages"},"site":{"url":"https://jimmidyson.github.io/testblog"},"socialnetwork":{"email":"jimmidyson@gmail.com","twitter":"https://twitter.com/jimmidyson","github":"https://github.com/jimmidyson"},"theme":{"name":"Saga","url":"https://jimmidyson.github.io/testblog/themes/Saga"}}
